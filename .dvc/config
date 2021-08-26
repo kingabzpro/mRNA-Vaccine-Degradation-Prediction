@@ -1,4 +1,2 @@
-[core]
-    remote = mrna-vaccine-degradation-prediction
-['remote "mrna-vaccine-degradation-prediction"']
-    url = https://dagshub.com/kingabzpro/mRNA-Vaccine-Degradation-Prediction.git
+['remote "origin"']
+    url = https://dagshub.com/kingabzpro/mRNA-Vaccine-Degradation-Prediction.dvc
